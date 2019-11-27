@@ -3,9 +3,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  left-nav-one:
+  about-us:
     output: true
-  left-nav-two:
+  open-electricity-market:
+    output: true
+  electricity:
+    output: true
+  gas:
     output: true
 resources_name: resource-room
 
